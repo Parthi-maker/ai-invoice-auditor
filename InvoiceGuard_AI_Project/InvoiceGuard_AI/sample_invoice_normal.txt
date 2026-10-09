@@ -1,0 +1,8 @@
+ACME OFFICE SUPPLIES
+Vendor: Acme Office Supplies
+Invoice Number: AC-2026-014
+Invoice Date: 2026-10-01
+Currency: INR
+Subtotal: 10000.00
+GST (18%): 1800.00
+Grand Total: 11800.00

@@ -1,0 +1,8 @@
+NORTHSTAR STATIONERY
+Vendor: Northstar Stationery
+Invoice Number: NS-2026-008
+Invoice Date: 2026-10-02
+Currency: INR
+Subtotal: 5000.00
+GST (18%): 900.00
+Grand Total: 6200.00
