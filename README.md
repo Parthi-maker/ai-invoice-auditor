@@ -190,6 +190,3 @@ This is a suggested structure. Adjust it to match the files that actually exist 
 3. Add tests for changes where possible.
 4. Open a pull request with a clear description.
 
-## 📄 License
-
-Choose a license before distributing the project. For an open-source release, add a `LICENSE` file with the license you select.
